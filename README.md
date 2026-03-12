@@ -8,9 +8,9 @@ I am a passionate developer focused on building clean, efficient code and explor
 ### 🛠️ Tech Stack & Learning Journey
 
 - **Backend:** Python (Core, OOP), SQLite, JSON
-- **Artificial Intelligence:** Learning Machine Learning algorithms and AI model integration.
-- **Blockchain/Web3:** Learning Solidity for Smart Contract development and Blockchain logic.
-- **Tools:** Git, GitHub, Tkinter (GUI)
+- **Artificial Intelligence:** Learning Machine Learning algorithms (NumPy, Pandas).
+- **Blockchain/Web3:** Learning Solidity for Smart Contract development.
+- **Tools:** Git, GitHub, Telegram Bot API, Tkinter (GUI)
 
 ---
 
@@ -20,7 +20,17 @@ I am a passionate developer focused on building clean, efficient code and explor
 A comprehensive home automation simulation.
 - **Concepts:** Inheritance, Abstraction, Encapsulation.
 - **Storage:** Integrated with **SQLite** and **JSON**.
-- **Future update:** Planning to integrate a basic **AI module** for predictive climate control.
+- **Logic:** Automated "Night Mode" and data validation.
+
+#### [Video Downloader & MP3 Converter Bot](https://github.com/geghamyanerik/video-mp3-bot)
+A versatile Telegram bot for media handling.
+- **Features:** Direct **video downloading** and high-quality audio extraction.
+- **Tech:** Python, Telegram API, media processing libraries.
+
+#### [Professional Bank Management System](https://github.com/geghamyanerik/BankClass/)
+A **full OOP-based** financial logic simulation.
+- **Design:** Advanced use of Class structures to handle accounts, transactions, and security.
+- **Logic:** Secure balance management and structured data flow.
 
 #### [Library Management System](https://github.com/geghamyanerik/Library)
 A backend system for relational data management using Python and SQL.
@@ -28,9 +38,9 @@ A backend system for relational data management using Python and SQL.
 ---
 
 ### 🎯 Current Focus
-- 🤖 Deepening my knowledge in **Machine Learning** with Python.
-- ⛓️ Building my first decentralized application (DApp) using **Solidity**.
-- 🛠️ Developing GUI tools to bridge Backend logic with user-friendly interfaces.
+- 🤖 Integrating **Machine Learning** models into Python applications.
+- ⛓️ Developing decentralized logic with **Solidity**.
+- 🖥️ Building user-friendly **GUI** interfaces for backend tools.
 
 ---
 
@@ -41,8 +51,5 @@ A backend system for relational data management using Python and SQL.
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/erik-geghamyan](https://linkedin.com/in/erik-geghamyan)
-- **Telegram:** @(Քո username-ը)
-
----
-*"Code is law, but AI is the future."*
+- **LinkedIn:** [linkedin.com/in/erik-geghamyan](https://www.linkedin.com/in/erik-geghamyan-59aa3a24b/)
+- **Telegram:** @(erroo77)
