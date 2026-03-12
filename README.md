@@ -32,8 +32,7 @@ A **full OOP-based** financial logic simulation.
 - **Design:** Advanced use of Class structures to handle accounts, transactions, and security.
 - **Logic:** Secure balance management and structured data flow.
 
-#### [Library Management System](https://github.com/geghamyanerik/Library)
-A backend system for relational data management using Python and SQL.
+
 
 ---
 
