@@ -24,23 +24,25 @@ OpenCV • Scikit-learn • SQL • Git
 ---
 
 ### 📂 Featured Projects
+#### [Phishing URL Detection & Classification](https://github.com/geghamyanerik/Phishing-URL-Detection-ML)
 
-#### [Smart Home Management System](https://github.com/geghamyanerik/SmartHome)
-A comprehensive home automation simulation.
-- **Concepts:** Inheritance, Abstraction, Encapsulation.
-- **Storage:** Integrated with **SQLite** and **JSON**.
-- **Logic:** Automated "Night Mode" and data validation.
+A machine learning project for detecting phishing and legitimate URLs using a large-scale dataset.
+
+* **Features:** Data preprocessing, feature engineering, missing-value handling, model training and evaluation on **2.5M+ URLs**.
+* **Tech:** Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, Matplotlib.
+
+#### [E-commerce Data Cleaning & Analysis](https://github.com/geghamyanerik/E-commerce-Data-Cleaning-Analysis)
+
+A data science project focused on cleaning, preprocessing, and analyzing e-commerce transaction data.
+
+* **Features:** Data cleaning, missing-value handling, statistical analysis, visualization and ML-ready data preparation.
+* **Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+
 
 #### [Video Downloader & MP3 Converter Bot](https://github.com/geghamyanerik/video-mp3-bot)
 A versatile Telegram bot for media handling.
 - **Features:** Direct **video downloading** and high-quality audio extraction.
 - **Tech:** Python, Telegram API, media processing libraries.
-
-#### [Professional Bank Management System](https://github.com/geghamyanerik/BankClass/)
-A **full OOP-based** financial logic simulation.
-- **Design:** Advanced use of Class structures to handle accounts, transactions, and security.
-- **Logic:** Secure balance management and structured data flow.
-
 
 
 ---
