@@ -1,16 +1,25 @@
-# Hi there, I'm Erik Geghamyan! 👋
+Hi, I'm Erik Geghamyan 👋
 
-### 🚀 Junior Python Developer | Exploring ML/AI & Web3 (Solidity)
-I am a passionate developer focused on building clean, efficient code and exploring the intersection of **Artificial Intelligence** and **Blockchain technology**.
+Junior Machine Learning / AI Engineer
+Python | PyTorch | TensorFlow | Computer Vision | NLP
 
----
+I build machine learning and deep learning projects with
+Python, focusing on Computer Vision, NLP and AI systems.
 
-### 🛠️ Tech Stack & Learning Journey
+## 🧠 AI / ML
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- NLP & Transformers
+- Neural Networks
+- Model Training & Evaluation
 
-- **Backend:** Python (Core, OOP), SQLite, JSON
-- **Artificial Intelligence:** Learning Machine Learning algorithms (NumPy, Pandas).
-- **Blockchain/Web3:** Learning Solidity for Smart Contract development.
-- **Tools:** Git, GitHub, Telegram Bot API, Tkinter (GUI)
+## 🛠️ Tech Stack
+Python • PyTorch • TensorFlow • NumPy • Pandas
+OpenCV • Scikit-learn • SQL • Git
+
+## 🚀 Featured Projects
+...
 
 ---
 
