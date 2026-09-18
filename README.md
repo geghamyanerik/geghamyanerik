@@ -1,4 +1,4 @@
-Hi, I'm Erik Geghamyan 👋
+## Hi, I'm Erik Geghamyan 👋
 
 Junior Machine Learning / AI Engineer
 Python | PyTorch | TensorFlow | Computer Vision | NLP
