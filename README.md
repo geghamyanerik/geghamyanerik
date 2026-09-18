@@ -18,10 +18,7 @@ Python, focusing on Computer Vision, NLP and AI systems.
 Python • PyTorch • TensorFlow • NumPy • Pandas
 OpenCV • Scikit-learn • SQL • Git
 
-## 🚀 Featured Projects
-...
 
----
 
 ### 📂 Featured Projects
 #### [Phishing URL Detection & Classification](https://github.com/geghamyanerik/Phishing-URL-Detection-ML)
